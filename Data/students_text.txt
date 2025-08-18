@@ -1,0 +1,2 @@
+example student|01/02/1999|aga|123|0
+ | | | |0
