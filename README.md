@@ -20,15 +20,15 @@ Welcome to **Library Management System**, a desktop application for managing a l
 
 ## Prerequisites
 
-- C++17 compatible compiler (e.g., g++, clang++, or MSVC).
+- C++20 compatible compiler (e.g., g++, clang++, or MSVC).
 - wxWidgets library (version 3.1 or higher).
-- CMake (version 3.10 or higher).
+- CMake (version 3.15 or higher).
 
 ## Running the Application
 
 From the `build` directory, execute:
 ```bash
-./LibraryManagementSystem   # On Windows, LibrarySystemApp.exe
+./LibraryManagementSystem
 ```
 The main window will appear, allowing you to manage books and members.
 
