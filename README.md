@@ -16,7 +16,7 @@ Welcome to **Library Management System**, a desktop application for managing a l
 - Register and manage library members.
 - Check-in and check-out books.
 - Search for books by ISBN.
-- Intuitive GUI built with wxWidgets, supporting Windows, macOS, and Linux.
+- Intuitive GUI built with wxWidgets.
 
 ## Prerequisites
 
@@ -37,7 +37,7 @@ The main window will appear, allowing you to manage books and members.
 1. Launch the application.
 2. Navigate to **Books** to add or search for books.
 3. Navigate to **Dashboard** to register or update library members.
-4. Use **Transactions** to check out or return books.
+4. Navigaet **Admin Panel** for add/remove books.
 
 
 ## License
